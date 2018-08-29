@@ -52,7 +52,7 @@ along with this program.If not, see <http://www.gnu.org/licenses/>.
 #  Example: P1; and P0;
 #
 #
-#	Alot of info gain from Yuriy Krushelnytskiy and Ryszard Malinowski Arduino code linked below
+# -----	Alot of info fetched from Yuriy Krushelnytskiy and Ryszard Malinowski Arduino code linked below -----
 #
 #   ArduinoDRO + Tach V5.11
 #
