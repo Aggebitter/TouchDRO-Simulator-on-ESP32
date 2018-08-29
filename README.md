@@ -2,7 +2,7 @@
 The first try to get a deeper understanding on the BT SPP protocol used by TouchDRO at http://www.yuriystoys.com/
 
  
-                This is just some tesing code for the protocol. No code for reading calipers !!
+                This is just some testing code for the protocol. No code for reading calipers !!
 
 
   TouchDRO doeas at the moment only work with Bluetooth Classis and Serial Port Profile (SPP).
